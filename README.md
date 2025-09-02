@@ -24,7 +24,7 @@ Ideal para emmpezar en redes y obetener una visión general clara.
 ---
 
 ### 3. PacketTracer
-🖧 Material introductorio con **tutorial básico del uso de Packet Tracer** y con **ejercicios de Packet Tracer** enfocados en el diseño y comprensión de **subredes y enrutamiento**.  
+💻 Material introductorio con **tutorial básico del uso de Packet Tracer** y con **ejercicios de Packet Tracer** enfocados en el diseño y comprensión de **subredes y enrutamiento**.  
 Incluye ejemplos prácticos y esquemas básicos.
 
 ---
