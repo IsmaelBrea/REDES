@@ -84,7 +84,8 @@ Distintas prácticas más avanzadas en Packet Tracer:
 
 ## 🚀 Tecnologías y herramientas utilizadas
 - **PDFs de teoría**  
-- **Cisco Packet Tracer** para simulaciones y prácticas  
+- **Cisco Packet Tracer** para simulaciones y prácticas
+- **Omnet** para simulaciones y prácticas  
 
 ---
 
