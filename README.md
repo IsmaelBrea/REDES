@@ -39,7 +39,7 @@ Distintas prácticas más avanzadas en Packet Tracer:
 - **Práctica 3:** Seguridad perimetral: firewalls  
 - **Práctica 4:** Control de acceso
 ---
-## 5. Administración de Redes Avanzada
+## 5. Diseño de Redes
 
 🌐 Bloque orientado a tecnologías y servicios avanzados de red, combinando teoría y prácticas con simulación y herramientas reales. Se trabajan conceptos actuales clave en redes IP, seguridad y comunicaciones modernas.
 
