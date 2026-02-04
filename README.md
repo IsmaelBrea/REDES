@@ -78,7 +78,7 @@ Distintas prácticas más avanzadas en Packet Tracer:
 ## 🎯 Objetivo del repositorio
 - Organizar de manera clara y progresiva los materiales de **redes de computadores**.  
 - Servir como apoyo para estudiantes y entusiastas de la informática.  
-- Combinar **teoría** (PDFs) y **práctica** (Packet Tracer).  
+- Combinar **teoría** (PDFs) y **práctica** (Packet Tracer y Omnet).  
 
 ---
 
