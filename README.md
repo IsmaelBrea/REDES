@@ -39,11 +39,11 @@ Distintas prácticas más avanzadas en Packet Tracer:
 - **Práctica 3:** Seguridad perimetral: firewalls  
 - **Práctica 4:** Control de acceso
 ---
-## 5. Diseño de Redes
+### 5. Diseño de Redes
 
 🌐 Bloque orientado a tecnologías y servicios avanzados de red, combinando teoría y prácticas con simulación y herramientas reales. Se trabajan conceptos actuales clave en redes IP, seguridad y comunicaciones modernas.
 
-### Contenido
+#### Contenido
 
 - **QoS (Quality of Service)**  
   Estudio de mecanismos de calidad de servicio en redes IP.  
@@ -67,7 +67,7 @@ Distintas prácticas más avanzadas en Packet Tracer:
   - **CoAP**
   - **IEEE 802.15.4 y 6LoWPAN**
 
-### Prácticas en OMNET
+#### Prácticas en OMNET
 
 - **Práctica 1** — QoS (DiffServ en INET)  
 - **Práctica 2** — IPv6 en INET  
@@ -75,11 +75,11 @@ Distintas prácticas más avanzadas en Packet Tracer:
 
 ---
 
-## 6. Servicios Multimedia
+### 6. Servicios Multimedia
 
 🎧📹 Bloque dedicado al estudio de **servicios multimedia en redes IP**, abarcando señalización, transmisión de audio y vídeo, y su evaluación de rendimiento. Se combinan fundamentos teóricos con prácticas orientadas a servicios reales.
 
-### Bloque 1- Protocolos Multimedia 
+#### Bloque 1- Protocolos Multimedia 
 
 - **Señalización**
 - **H.323, SIP, SDP**
@@ -91,13 +91,13 @@ Distintas prácticas más avanzadas en Packet Tracer:
 - **Códecs y protocolos** para VoIP
 - **Asterisk**: programación y configuración de **PBXs**
 
-### Bloque 3- Servicios de Imagen y Vídeo
+#### Bloque 3- Servicios de Imagen y Vídeo
 
 - **Métricas de rendimiento** (retardo, jitter, pérdidas, calidad percibida)
 - Fundamentos y **estándares de compresión**
 - **JPEG, H.261, H.264/AVC**, entre otros
 
-### Prácticas
+#### Prácticas
 
 - **Práctica 1** — SIP  
 - **Práctica 2** — Asterisk  
