@@ -1,0 +1,8 @@
+<config>
+ <interface hosts='host[*]' names='eth0'/>
+ <interface hosts='router' names='eth0' address='192.168.0.1' netmask='255.255.255.0'/>
+ <interface hosts='router' names='eth1' address='192.168.1.1'  netmask='255.255.255.0'/>
+ <interface hosts='server_local' names='eth0' address='192.168.0.10'  netmask='255.255.255.0'/>
+ <interface hosts='server_remote' names='eth0' address='192.168.1.10'  netmask='255.255.255.0'/>
+</config>
+
