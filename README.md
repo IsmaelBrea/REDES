@@ -39,6 +39,41 @@ Distintas prácticas más avanzadas en Packet Tracer:
 - **Práctica 3:** Seguridad perimetral: firewalls  
 - **Práctica 4:** Control de acceso
 ---
+## 5. Administración de Redes Avanzada
+
+🌐 Bloque orientado a tecnologías y servicios avanzados de red, combinando teoría y prácticas con simulación y herramientas reales. Se trabajan conceptos actuales clave en redes IP, seguridad y comunicaciones modernas.
+
+### Contenido
+
+- **QoS (Quality of Service)**  
+  Estudio de mecanismos de calidad de servicio en redes IP.  
+  Práctica con **DiffServ** utilizando el simulador **INET**, analizando prioridades, colas y tratamiento del tráfico.
+
+- **IPv6**  
+  Teoría y fundamentos del protocolo IPv6.  
+  Prácticas de configuración y simulación de redes IPv6 en **INET**.
+
+- **VPNs (Redes Privadas Virtuales)**  
+  Conceptos de VPN y túneles seguros.  
+  Uso práctico de **strongSwan** y **OpenVPN**, con talleres de configuración realista.
+
+- **MANETs (Redes móviles ad-hoc)**  
+  Estudio de redes sin infraestructura fija.  
+  Prácticas de simulación de MANETs en **INET**, analizando movilidad y protocolos de enrutamiento.
+
+- **WSNs & IoT (Redes de Sensores e Internet de las Cosas)**  
+  Introducción a tecnologías y protocolos IoT:
+  - **MQTT y MQTT-SN**
+  - **CoAP**
+  - **IEEE 802.15.4 y 6LoWPAN**
+
+### Prácticas en OMNET
+
+- **Práctica 1** — QoS (DiffServ en INET)  
+- **Práctica 2** — IPv6 en INET  
+- **Práctica 3** — MANETs en INET  
+
+---
 
 ## 🎯 Objetivo del repositorio
 - Organizar de manera clara y progresiva los materiales de **redes de computadores**.  
