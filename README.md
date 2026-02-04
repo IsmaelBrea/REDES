@@ -91,7 +91,7 @@ Distintas prácticas más avanzadas en Packet Tracer:
 - **Códecs y protocolos** para VoIP
 - **Asterisk**: programación y configuración de **PBXs**
 
-### Bloque 3- Servicios de Imagen y Vídeo (5–7 semanas)
+### Bloque 3- Servicios de Imagen y Vídeo
 
 - **Métricas de rendimiento** (retardo, jitter, pérdidas, calidad percibida)
 - Fundamentos y **estándares de compresión**
